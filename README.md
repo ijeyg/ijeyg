@@ -104,15 +104,15 @@ Currently developing a healthcare platform based on Microservices Architecture i
 
 <!-- GitHub stats card -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javadgeravand96&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ijeyg&show_icons=true)
 
 ---
 
 ## 🤝 Let's Connect
 
 - 📧 javadgeravand96@gmail.com
-- 💼 LinkedIn
-- 🐙 GitHub: https://github.com/javadgeravand96
+- 💼 LinkedIn: www.linkedin.com/in/javad-geravand
+- 🐙 GitHub: https://github.com/ijeyg
 
 ---
 
