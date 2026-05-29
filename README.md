@@ -1,24 +1,119 @@
-# Hi there! 👋
+# Hey there 👋 I'm Javad Geravand
 
-I'm Javad Geravand, a seasoned back-end developer with over 6 years of experience in web development, specializing in PHP, Laravel, and database optimization. Here's a brief overview:
+### Senior Laravel Developer • Software Architect • Open Source Enthusiast
 
-## About Me
-- 💼 Currently working as a Senior Developer at Artiash Company in Ahvaz, Iran.
-- 🌱 Passionate about software design and development, with a focus on online stores, reservation systems, and organizational tools.
-- 🚀 Experienced in developing solutions for transportation, healthcare, retail, and educational sectors.
+Building scalable e-commerce platforms, SaaS products, developer tools, and enterprise software.
 
-## Professional Experience
-- **Senior Developer:** Leading the ongoing development of "Amitis," an advanced software solution for stores, with extensive features and international clientele.
-- **Mid-level Developer:** Contributed to various projects including school management systems, online food ordering platforms, and the creation of "Amitis" online store product.
-- **Junior Developer:** Involved in the development of hospital reservation systems, online hiring platforms, and bespoke CRM systems.
+---
 
-## Skills
-- **Languages:** PHP, JavaScript
-- **Frameworks:** Laravel, Symfony
-- **Databases:** MySQL, MongoDB, Redis
-- **Tools:** Git, Docker, VS Code, PhpStorm
+## 🚀 About Me
 
+I'm a backend-focused software engineer with 8+ years of experience designing and developing web applications used by businesses, organizations, and enterprise clients.
 
-## Let's Connect!
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/javad-geravand/) or [GitHub](https://github.com/ijeyg) for collaboration opportunities or just to say hello!
+My expertise lies in building scalable systems using Laravel, PHP, MySQL, Redis, MongoDB, and modern software architecture principles.
 
+Over the years I've worked on:
+
+- 🛒 Large-scale E-commerce Platforms
+- 🏥 Healthcare & Reservation Systems
+- 🏢 Enterprise Software
+- 📦 Open Source Packages
+- 🔌 Third-party Integrations
+- ⚡ High-performance Backend Systems
+
+---
+
+## 🔥 What I'm Working On
+
+### Amitis E-Commerce Platform
+
+A powerful e-commerce solution supporting:
+
+- 120+ currencies
+- 20+ payment gateways
+- Inventory management
+- Accounting integrations
+- Shipping integrations
+- Event landing pages
+- Multi-store architecture
+
+Used by multiple active businesses and continuously evolving.
+
+---
+
+### LaraPayamak
+
+An open-source Laravel package that unifies multiple SMS providers behind a single API.
+
+Features:
+
+- Multiple SMS gateways
+- Clean Laravel integration
+- Extensible architecture
+- Unified developer experience
+
+---
+
+### Healthcare Ecosystem
+
+Currently developing a healthcare platform based on Microservices Architecture including:
+
+- Medical reservations
+- Healthcare marketplace
+- Medical directories
+- Recruitment solutions
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🌱 Currently Exploring
+
+- Software Architecture
+- Distributed Systems
+- Microservices
+- Domain-Driven Design (DDD)
+- Event-Driven Systems
+- SEO Engineering
+- Product Development
+
+---
+
+## 📊 GitHub Stats
+
+<!-- GitHub stats card -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javadgeravand96&show_icons=true)
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 javadgeravand96@gmail.com
+- 💼 LinkedIn
+- 🐙 GitHub: https://github.com/javadgeravand96
+
+---
+
+> Building software that solves real-world problems.
